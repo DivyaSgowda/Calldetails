@@ -20,6 +20,6 @@ artifacts:
     #  - '**/*'
      - start_server
      - install_dependencies
-     - 'target/Mobiles_To_Customers-0.0.1-SNAPSHOT.jar'
+     - 'target/CallDetailsMS-0.0.1-SNAPSHOT.jar'
      - 'appspec.yml'
   discard-paths: yes 
